@@ -1,0 +1,51 @@
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\bin\Debug\Geometrie.exe.config
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\bin\Debug\Geometrie.exe
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\bin\Debug\Geometrie.pdb
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\MainWindow.g.cs
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\App.g.cs
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\MainWindow.baml
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie.g.resources
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie.exe
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\Geometrie.pdb
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\ResultWindow.baml
+C:\Users\andyb\Desktop\Csharp\Geométie moi\Geometrie\obj\Debug\ResultWindow.g.cs
+D:\Geometrie\bin\Debug\Geometrie.exe.config
+D:\Geometrie\bin\Debug\Geometrie.exe
+D:\Geometrie\bin\Debug\Geometrie.pdb
+D:\Geometrie\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+D:\Geometrie\obj\Debug\MainWindow.g.cs
+D:\Geometrie\obj\Debug\ResultWindow.g.cs
+D:\Geometrie\obj\Debug\App.g.cs
+D:\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+D:\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+D:\Geometrie\obj\Debug\MainWindow.baml
+D:\Geometrie\obj\Debug\ResultWindow.baml
+D:\Geometrie\obj\Debug\Geometrie.g.resources
+D:\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+D:\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+D:\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+D:\Geometrie\obj\Debug\Geometrie.exe
+D:\Geometrie\obj\Debug\Geometrie.pdb
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\bin\Debug\Geometrie.exe.config
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\bin\Debug\Geometrie.exe
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\bin\Debug\Geometrie.pdb
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\MainWindow.g.cs
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\ResultWindow.g.cs
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\App.g.cs
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie_MarkupCompile.cache
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie_MarkupCompile.lref
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\MainWindow.baml
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\ResultWindow.baml
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie.g.resources
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie.Properties.Resources.resources
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie.csproj.GenerateResource.cache
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie.exe
+C:\Users\andyb\Desktop\Csharp\Geometrie - Belin Andy\obj\Debug\Geometrie.pdb

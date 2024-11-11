@@ -1,0 +1,44 @@
+﻿<Window x:Class="Geometrie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Geometrie"
+        mc:Ignorable="d"
+        Title="Geométrie" Height="607" Width="400">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Choisissez une forme:" FontWeight="Bold" Margin="10"/>
+            <!-- Boutons pour sélectionner la forme -->
+            <Button Content="Carré" Name="btnCarre" Click="btnCarre_Click" Margin="5" Background="#FFAED4FF"/>
+            <Button Content="Rectangle" Name="btnRectangle" Click="btnRectangle_Click" Margin="5" Background="#FFBDFFC7"/>
+            <Button Content="Triangle" Name="btnTriangle" Click="btnTriangle_Click" Margin="5" Background="#FFFFC783"/>
+            <Button Content="Cercle" Name="btnCercle" Click="btnCercle_Click" Margin="5" Background="#FFFFC6C6"/>
+            <Button Content="Ellipse" Name="btnEllipse" Click="btnEllipse_Click" Margin="5" Background="#FFFFF4A7"/>
+
+            <!-- Interface pour afficher les informations de la forme sélectionnée -->
+            <TextBlock Text="Informations de la forme:" FontWeight="Bold" Margin="10"/>
+            <TextBlock Name="txtInfoForme" Margin="5"/>
+            <!-- Zone pour dessiner les formes -->
+            <Canvas Name="canvasDessin" Width="100" Height="100" Background="White" Margin="10"/>
+
+            <!-- TextBox pour entrer la surface et le périmètre -->
+            <TextBlock Text="Entrez les valeurs calculées :" FontWeight="Bold" Margin="10"/>
+            <TextBlock Text="Périmètre :" Margin="5" Width="380"/>
+            <TextBox x:Name="txtPerimetre" Width="100" Margin="0,-20,140,0" Panel.ZIndex="1"/>
+            <TextBlock Text="Surface :" Margin="5" Width="380"/>
+            <TextBox x:Name="txtSurface" Width="100" Margin="0,-17,140,2" Panel.ZIndex="1" Height="20"/>
+
+            <!-- Bouton pour valider les réponses -->
+            <Button Content="Valider" Name="btnValider" Click="btnValider_Click" Margin="10"/>
+
+            <!-- Afficher le résultat de la validation -->
+            <TextBlock Name="txtResultat" FontWeight="Bold" Margin="10"/>
+            <Button Content="Voir la réponse" Name="btnVoirReponse" Click="btnVoirReponse_Click" Margin="10" Visibility="Hidden"/>
+
+
+
+
+        </StackPanel>
+    </Grid>
+</Window>
